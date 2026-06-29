@@ -1,0 +1,8 @@
+<Doctype html>
+<html>
+<head><title>Welcome to GIT</title></head>
+<body>
+<h1>GIT Nerchuko</h1>
+<p>Hello Git<p>
+</body>
+</html>
